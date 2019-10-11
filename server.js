@@ -16,9 +16,9 @@ app.get("/api/customers", (req, res) => {
   res.json(customers);
 });
 
-app.get("*", function(req, res) {
+/*app.get("*", function(req, res) {
   res.sendFile(path.join(publicPath, "index.html"));
-});
+});*/
 
 const port = process.env.PORT || 5000;
 
