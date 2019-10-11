@@ -1,12 +1,12 @@
 {
-  "name": "reactexpress",
+  "name": "findatemp",
   "version": "1.0.0",
   "description": "Starter kit for creating React and Express apps",
   "main": "server.js",
   "scripts": {
     "start": "node server/server.js"
   },
-  "author": "Omar Saaouiy",
+  "author": "Omar Saaoui",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^1.14.6"
