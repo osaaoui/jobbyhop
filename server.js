@@ -3,8 +3,8 @@ const path = require("path");
 
 const app = express();
 
-const publiPath = path.join(__dirname, "..", "public");
-app.use(express.static(publiPath));
+const publicPath = path.join(__dirname, "..", "public");
+app.use(express.static(publicPath));
 
 app.get("/api/customers", (req, res) => {
   const customers = [
@@ -17,7 +17,7 @@ app.get("/api/customers", (req, res) => {
 });
 
 app.get("*", function(req, res) {
-  res.sendFile(path.join(publiPath, "index.html"));
+  res.sendFile(path.join(publicPath, "index.html"));
 });
 
 const port = process.env.PORT || 8000;
