@@ -2,7 +2,7 @@ const express = require("express");
 const path = require("path");
 
 const app = express();
-app.use(express.static("build"));
+app.use(express.static(path.join(__dirname, "client/build")));
 
 app.get("/api/customers", (req, res) => {
   const customers = [
@@ -18,4 +18,7 @@ app.get("*", function(req, res) {
   res.sendFile(path.resolve("build", "index.html"));
 });
 
-app.listen(process.env.PORT || 5000);
+const port = process.env.PORT || 5000;
+app.listen(port);
+
+console.log(`Password generator listening on ${port}`);
