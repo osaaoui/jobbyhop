@@ -8,6 +8,9 @@ function Sidebar() {
       <a className="navbar-brand ml-5" href="#">
         <img src={logo} alt="logo" style={{ width: "35px" }} />
       </a>
+      <Link className="nav-link text-white text-uppercase ml-0" to="/">
+        JOBBY-HOP
+      </Link>
       <button
         className="navbar-toggler"
         type="button"
@@ -35,7 +38,7 @@ function Sidebar() {
               className="nav-link text-white text-uppercase ml-5"
               to="/news"
             >
-              News
+              Inscription
             </Link>
           </li>
           <li className="nav-item">
@@ -43,7 +46,7 @@ function Sidebar() {
               className="nav-link text-white text-uppercase ml-5"
               to="/contacts"
             >
-              Contact US
+              Connexion
             </Link>
           </li>
         </ul>

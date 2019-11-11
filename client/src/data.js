@@ -1,7 +1,7 @@
 export const placeInfo = [
   {
     id: 1,
-    headerTitle: "Lorem ipsum",
+    headerTitle: "Restaurant",
     headerSubTitle: "soluta numquam",
     headerText:
       "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit laboriosam cum recusandae quas? Natus, alias architecto error, sunt quae non placeat a eius minus maiores libero laborum perferendis, nobis qui?",
@@ -14,7 +14,7 @@ export const placeInfo = [
   },
   {
     id: 2,
-    headerTitle: "Architecto commodi",
+    headerTitle: "Hotellerie",
     headerSubTitle: "commodi",
     headerText:
       "ipsum dolor sit, amet consectetur adipisicing elit. Dicta minus nulla nesciunt ex magni, fuga magnam accusantium sed nihil, eius similique? Dolores, ullam! Nisi magni, esse beatae ea suscipit asperiores!",
@@ -27,7 +27,7 @@ export const placeInfo = [
   },
   {
     id: 3,
-    headerTitle: "Horund irute",
+    headerTitle: "Gardiennage",
     headerSubTitle: "injoyguru",
     headerText:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis quas voluptatum quisquam nemo ratione neque aspernatur! Modi veniam distinctio velit quidem? Asperiores ut, atque odio porro debitis unde obcaecati esse!",
@@ -41,7 +41,7 @@ export const placeInfo = [
   },
   {
     id: 4,
-    headerTitle: "Perspiciatis illum",
+    headerTitle: "Bâtiment",
     headerSubTitle: "Voluptas similique",
     headerText: "Dolor sit amet, consectetur adipisicing elit. Illo, iste",
     title: "Perspiciatis illum",
@@ -53,7 +53,7 @@ export const placeInfo = [
   },
   {
     id: 5,
-    headerTitle: "Earum fugiat",
+    headerTitle: "Magasins",
     headerSubTitle: "Fugiat",
     headerText: "Illo mollitia",
     title: "Consequuntur quo",
@@ -65,7 +65,7 @@ export const placeInfo = [
   },
   {
     id: 6,
-    headerTitle: "Deserunt consequatur",
+    headerTitle: "Livraison",
     headerSubTitle: "Excepturi sequi",
     headerText:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi a voluptatem nostrum dolore necessitatibus, nisi provident placeat officia rerum saepe laudantium quod sunt animi cum porro eligendi molestias, ut quisquam.",
