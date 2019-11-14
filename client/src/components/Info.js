@@ -14,7 +14,7 @@ class Info extends Component {
     };
     const headerStyle = {
       color: "blue",
-      paddingTop: "170px",
+      paddingTop: "50px",
       fontSize: "50px",
       letterSpacing: "6px",
       fontWeight: "600",

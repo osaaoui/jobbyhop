@@ -9,50 +9,50 @@ function Footer() {
           <div className="row">
             {/*Column 1*/}
             <div className="col-md-3 col-sm-6">
-              <h4>Lorem Ipsum</h4>
+              <h4>Candidats</h4>
               <ul className="list-unstyled">
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
+                <li>Offres</li>
+                <li>Poster CV</li>
+                <li>Catégories</li>
+                <li>Profils</li>
               </ul>
             </div>
             {/*Column 2*/}
             <div className="col-md-3 col-sm-6">
-              <h4>Lorem Ipsum</h4>
+              <h4>Employeurs</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="/">Lorem, ipsum</a>
+                  <a href="/">Nouveaux Postes</a>
                 </li>
                 <li>
-                  <a href="/">Lorem, ipsum</a>
+                  <a href="/">Listing Offres</a>
                 </li>
                 <li>
-                  <a href="/">Lorem, ipsum</a>
+                  <a href="/">Catégories</a>
                 </li>
                 <li>
-                  <a href="/">Lorem, ipsum</a>
+                  <a href="/">Forfaits</a>
                 </li>
               </ul>
             </div>
             {/*Column 3*/}
             <div className="col-md-3 col-sm-6">
-              <h4>Lorem Ipsum</h4>
+              <h4>Catégories Emplois</h4>
               <ul className="list-unstyled">
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
+                <li>Cafés / Restaurant</li>
+                <li>Hotellerie</li>
+                <li>Gardiennage</li>
+                <li>Magasins</li>
               </ul>
             </div>
             {/*Column 4*/}
             <div className="col-md-3 col-sm-6">
-              <h4>Lorem Ipsum</h4>
+              <h4>Contactez-nous</h4>
               <ul className="list-unstyled">
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
-                <li>Lorem, ipsum</li>
+                <li>Par courriel</li>
+                <li>Par téléphone</li>
+                <li>Adresse</li>
+                <li>A propos</li>
               </ul>
             </div>
           </div>
