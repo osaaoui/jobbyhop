@@ -1,38 +1,14 @@
-# React Express Starter Pack
 
-> Create full stack apps with React and Express. Run your client and server with a single command. 
+A prototype React application for a client. Jobbyhop aims to be the Linkedin for temporary jobs in Quebec.
+Owners: Omar saaoui and Bader Saaoui
 
-### Redux Version
-This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
-
-## Quick Start
-
-``` bash
-# Install dependencies for server
-npm install
-
-# Install dependencies for client
-npm run client-install
-
-# Run the client & server with concurrently
-npm run dev
-
-# Run the Express server only
-npm run server
-
-# Run the React client only
-npm run client
-
-# Server runs on http://localhost:5000 and client on http://localhost:3000
-```
 
 ## App Info
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Omar Saaoui
+
 
 ### Version
 
